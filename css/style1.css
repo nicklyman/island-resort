@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+  text-align: justify;
+  font-style: oblique;
+}
+
+p {
+  font-style: oblique;
+}
+
+ul {
+  font-style: oblique;
+}
+
+ol {
+  font-style: normal;
+  font-size: 18px;
+}
